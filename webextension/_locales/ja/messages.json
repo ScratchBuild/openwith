@@ -71,6 +71,15 @@
 	"extensionDescription": {
 		"message": "Chrome、Edge、Safari、またはOperaでウェブページをすばやくテストできます。"
 	},
+	"extensionDescription_chrome": {
+		"message": "Edge、Firefox、Safari、またはOperaでウェブページをすばやくテストできます。"
+	},
+	"extensionDescription_opera": {
+		"message": "Chrome、Edge、Firefox、またはSafariでウェブページをすばやくテストできます。"
+	},
+	"extensionLongDescription": {
+		"message": "Chrome、Edge、SafariまたはOperaでウェブページをすばやくテストできます。Open Withではわずか2クリックで現在のページを他のブラウザで開くことができます。"
+	},
 	"extensionName": {
 		"message": "Open With"
 	},
@@ -110,8 +119,29 @@
 	"install_step4c": {
 		"message": "ファイルを移動した場合、この手順を再度実行する必要があります。"
 	},
+	"links_chrome": {
+		"message": "Open With for Chrome"
+	},
+	"links_firefox": {
+		"message": "Open With for Firefox"
+	},
 	"links_github": {
 		"message": "Open With on GitHub"
+	},
+	"links_opera": {
+		"message": "Open With for Opera"
+	},
+	"menu_contexts_label": {
+		"message": "コンテキストメニューに表示:"
+	},
+	"menu_contexts_link": {
+		"message": "リンク"
+	},
+	"menu_contexts_page": {
+		"message": "ページ"
+	},
+	"menu_contexts_tab": {
+		"message": "タブ"
 	},
 	"options_title": {
 		"message": "Open Withオプション"
@@ -124,6 +154,15 @@
 	},
 	"popup_options_button": {
 		"message": "Open Withオプション…"
+	},
+	"shortcut_open1": {
+		"message": "ブラウザショートカット #1"
+	},
+	"shortcut_open2": {
+		"message": "ブラウザショートカット #2"
+	},
+	"shortcut_open3": {
+		"message": "ブラウザショートカット #3"
 	},
 	"test_button": {
 		"message": "インストールのテスト"
